@@ -11,5 +11,9 @@
 	"framer": {
 		"id": "9c146dca-e059-4830-b36b-0973940352aa"
 	},
-	"author": "Jay Sargent"
+	"author": "Jay Sargent",
+	"dependencies": {
+		"ag-grid-community": "^20.2.0",
+		"ag-grid-react": "^20.2.0"
+	}
 }
